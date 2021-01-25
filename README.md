@@ -1,3 +1,4 @@
+Elasticsearch 重写IK分词器源码。支持从Mysql中每隔一定时间，自动加载新的词库。
 IK Analysis for Elasticsearch
 =============================
 
