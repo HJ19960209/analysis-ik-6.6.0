@@ -38,7 +38,7 @@
             <useProjectArtifact>true</useProjectArtifact>
             <useTransitiveFiltering>true</useTransitiveFiltering>
             <includes>
-                <include>org.apache.httpcomponents:httpclient</include>
+                <include>mysql:mysql-connector-java</include>
             </includes>
         </dependencySet>
     </dependencySets>
